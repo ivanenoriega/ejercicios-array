@@ -1,4 +1,4 @@
-#Ejercicios - Array 2.
+# Ejercicios - Array 2.
 
 > Sigue las indicaciones para completar los ejercicios.
 
