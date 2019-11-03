@@ -11,7 +11,7 @@
 > estaEnArray(array, 3) // true
 > estaEnArray(array, 4) // false
 
-3. Escribir una función que reciba por parámetro un array de números y devuelva un array de tres posiciones, en la primer posición un array con los números positivos, en la segunda un array con los que son cero y en la tercera un array con los negativos. Resolverlo usando un for y un forEach.
+3. Escribir una función que reciba por parámetro un array de números y devuelva un array de tres posiciones, en la primer posición un array con los números positivos, en la segunda un array con los que son cero y en la tercera un array con los negativos.
 
 > var array = [-2, -1, 0, 1, 2]
 > miFuncion(array) // [[-2, -1], [0], [1, 2]]
